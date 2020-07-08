@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/<Implementation>-<active-contour-corteximage>-<success>)
+![](https://img.shields.io/badge/<Implementation>-<active_contour_corteximage>-<success>)
 ![](https://img.shields.io/badge/<Implementation>-<real-time-recognition/alarm>-<success>)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R11K2H4)
